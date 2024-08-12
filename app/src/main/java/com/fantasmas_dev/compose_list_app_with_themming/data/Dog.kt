@@ -2,6 +2,7 @@ package com.fantasmas_dev.compose_list_app_with_themming.data
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
+import com.fantasmas_dev.compose_list_app_with_themming.R
 
 data class Dog(
     @DrawableRes val imageResourceId: Int,
